@@ -1,7 +1,9 @@
 # 📘 Guía de Instalación de Visual Studio 2022 para Desarrollo en C#
 
 **Autor:** Lorena Duran
+
 **Asignatura:** Base de Datos
+
 **Fecha:** 31 de mayo de 2026
 
 ---
@@ -82,7 +84,7 @@ Haz clic en **Install** y espera a que finalice el proceso.
 
 # 6. Imagen ilustrativa
 
-![Configuración de Visual Studio](visualstudio-instalacion.png)
+![Configuración de Visual Studio](https://learn.microsoft.com/en-us/visualstudio/install/media/visualstudio/vs-installer-workloads.png?view=visualstudio)
 
 *Figura 1. Selección de la carga de trabajo ".NET Desktop Development" durante la instalación.*
 
