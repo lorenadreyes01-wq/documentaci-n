@@ -1,8 +1,11 @@
 # Principios SOLID y Refactorización en C#
 
 **Autor:** Lorena Durán
+
 **Curso:** 5to de Informática B
+
 **Asignatura:** Programación
+
 **Fecha:** Junio 2026
 
 ---
@@ -415,11 +418,3 @@ Los principios SOLID son fundamentales para el desarrollo de software moderno. S
 * https://learn.microsoft.com/es-es/dotnet/csharp/
 * https://refactoring.guru/es/design-patterns
 * https://es.wikipedia.org/wiki/SOLID
-
----
-
-# Imagen adicional
-
-![Arquitectura de Software](https://chatgpt.com/backend-api/estuary/content?id=file_000000000dac71fdb2fc689332861590&ts=494584&p=fsns&cid=1&sig=dbd9b29b46427293e0bf8a2fb55f76e07292a50546f9f23ed54f0e9414495028&v=0)
-
-*Figura 2. Ejemplo de una arquitectura organizada aplicando principios SOLID.*
